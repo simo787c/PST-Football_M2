@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CinemachineTarget
+  - Ball
+  - Goal
+  - RedGoal
+  - BlueGoal
+  - Outerlines
+  - Sideline
+  - Endline
+  - GoalLine
+  - Wall
+  - Stadium
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Character
+  - Ground
+  - 
+  - 
+  - 
+  - Wall
+  - 
+  - Player Ignore
+  - Ball
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
